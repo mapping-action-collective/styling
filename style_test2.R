@@ -8,4 +8,5 @@ ugly <- function(data, something) {
 
 }
 
-use_tidy_style()
+use_git_hook("precommit", "./hook_test.R")
+use_github("mapping-action-collective")
