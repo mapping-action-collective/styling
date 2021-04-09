@@ -4,7 +4,7 @@ if (!require(pacman)) {
 library(pacman)
 p_load(usethis)
 
-ugly <- function(data, something) {
+ugly <- function(data,      something) {
 
 }
 
